@@ -360,16 +360,6 @@ Contributed to cybersecurity community building through competition organization
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophy.svg" alt="GitHub Profile Trophy" />
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
