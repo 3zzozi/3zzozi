@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1b4b,35:4c1d95,70:7c3aed,100:2563eb&text=Ezalden%20Mamon&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Penetration%20Tester%20%7C%20Cybersecurity%20%26%20Cloud%20Computing&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1b4b,35:4c1d95,70:7c3aed,100:2563eb&text=Ezalden%20Mamon&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Penetration%20Tester%20%7C%20Cybersecurity%20and%20Cloud%20Computing&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+Operations+%26+Media+Manager;Cybersecurity+and+Cloud+Computing+Student;Certified+eJPT+Penetration+Tester;Building+AI-Powered+Products+and+Secure+Web+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+Operations+and+Media+Manager;Cybersecurity+and+Cloud+Computing+Student;Certified+eJPT+Penetration+Tester;Building+AI-Powered+Products+and+Secure+Web+Platforms" alt="Typing SVG" />
 
 <br />
 
